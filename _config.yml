@@ -12,4 +12,4 @@ kaggle_username: Aurelila
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-creative
+remote_theme: jekyll-theme-creative
