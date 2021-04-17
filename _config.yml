@@ -1,1 +1,14 @@
+# Site settings
+title: Nancy McCoy - Data Analyst
+email: nmccoy176@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "aurelila.github.io" # the base hostname & protocol for your site
+
+twitter_username: LadyAurelila
+github_username: Aurelila
+
+# Build settings
+markdown: kramdown
+
 theme: jekyll-theme-creative
